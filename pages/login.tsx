@@ -235,7 +235,7 @@ export default function LoginPage() {
         {/* Footer */}
         <footer className="text-center py-8 px-4">
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            {t('createdBy')} <strong>Maulana Nais</strong> • {t('quote')} <span className="leaf-emoji">🌿</span>
+            {t('createdBy')} <strong>Falah Nugraha Setiawan</strong> • {t('quote')} <span className="leaf-emoji">🌿</span>
           </p>
         </footer>
       </div>

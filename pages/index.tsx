@@ -251,7 +251,7 @@ export default function HomePage() {
         <footer className="max-w-4xl mx-auto px-4 py-8 text-center border-t border-gray-200 dark:border-gray-700">
           <div className="text-gray-600 dark:text-gray-400">
             <p className="mb-2">
-              👑 Made with ❤️ by <strong className="text-spiritual-600 dark:text-spiritual-400">Maulana Nais</strong>
+              👑 Made with ❤️ by <strong className="text-spiritual-600 dark:text-spiritual-400">Falah Nugraha Setiawan</strong>
             </p>
             <p className="text-sm italic">"Because every feeling deserves light." <span className="leaf-emoji">🌿</span></p>
           </div>
